@@ -20,10 +20,14 @@
     <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
   </head>
-    <body background="img/bg.jpg" style="background-repeat: no-repeat; background-size: cover;">
+    <body background="img/featuresbg.jpg" style="background-repeat: no-repeat; background-size: cover;">
+
       <main role="main" class="inner cover">
-        <h1 class="cover-heading">Cover your page.</h1>
-        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+        <h1 class="cover-heading">Features</h1>
+        <p class="lead">The Practice Sets 04 taught us about the basics of PHP and how to integrate it to HTML and CSS codes. This activity was done by our group, <strong> IJiezca. </strong> <br>
+          Group Members: <br>
+          Ingrid Justine S. Calma <br>
+          Jiezca P. Casayas <br></p>
         <p class="lead">
           <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
         </p>
@@ -32,7 +36,7 @@
       <?php 
         include 'inc/footer.php'; 
       ?>
-
+    
     </div>
 
 

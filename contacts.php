@@ -20,19 +20,23 @@
     <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
   </head>
-    <body background="img/bg.jpg" style="background-repeat: no-repeat; background-size: cover;">
+    <body background="img/contactsbg.jpg" style="background-repeat: no-repeat; background-size: cover;">
       <main role="main" class="inner cover">
-        <h1 class="cover-heading">Cover your page.</h1>
-        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+        <h1 class="cover-heading">Contacts</h1>
+        <p class="lead">
+          You can contact us here through our <strong> Corporate Emails: </strong><br>
+          <a href ="mailto:202080028@psu.palawan.edu.ph"> 202080028@psu.palawan.edu.ph - Ingrid Justine S. Calma </a>
+            <br>
+          <a href ="mailto:202080030@psu.palawan.edu.ph"> 202080030@psu.palawan - Jiezca P. Casayas </a>
+        </p>
         <p class="lead">
           <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
         </p>
       </main>
-
       <?php 
         include 'inc/footer.php'; 
       ?>
-
+    
     </div>
 
 
